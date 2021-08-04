@@ -33,7 +33,7 @@ The audio player only plays 30 seconds of audio currently. A fix for this would 
 
 Look into the possibility of using/implementing both the current Spotify API and the Web Playback SDK so that free users can fallback to the original API while premium users can use the Web Playback SDK
 
-#### [LICENSE.md](https://github.com/Pau1fitz/react-spotify/blob/master/LICENSE)
+#### [LICENSE.md](https://github.com/jackjona123/Spotify-Clone/blob/v1/LICENSE)
 Released under the GPL-3.0 License.
 
 #### Credits
