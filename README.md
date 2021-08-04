@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-An alternative Spotify front-end, built with React js and the Spotify API. This can also be installed as a Progressive Web App (PWA)
+An alternative Spotify front-end, built with React js and the Spotify API. 
 
 ## Deloyment 
 
