@@ -47,6 +47,3 @@ Released under the GPL-3.0 License.
 [Keitoto](https://dribbble.com/shots/15060139-Rungon-Music-Streaming-Dashboard)
 [Flatstudio](https://dribbble.com/shots/15528846-Mp3million-My-music-my-storage-space)
 [Sandro Tavartkiladze](https://dribbble.com/shots/5837092-Playcloud-Online-Music-Streaming)
-[CleverProgrammer](https://github.com/CleverProgrammers/spotify-clone)
-[andrepv](https://github.com/andrepv/spotify-react)
-[Pau1fitz](https://github.com/Pau1fitz/react-spotify)
